@@ -1,0 +1,137 @@
+.navblock{
+    background-color: cadetblue;
+    height: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    height: 65px;
+    width: 200px;
+    padding: 10px;
+
+}
+.content1bloc {
+    display: flex;
+    list-style: none;
+    width: 410px;
+}
+.content1bloc ul li{
+    list-style: none;
+}
+.content1bloc ul li a{
+    color: orange;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.firstbar{
+    height: 140px;
+}
+
+/* second........ */
+
+.navblock1{
+    background-color:plum;
+    height: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    height: 65px;
+    width: 200px;
+    padding: 10px;
+
+}
+.content1bloc1 {
+    display: flex;
+    list-style: none;
+    width: 410px;
+}
+.content1bloc1 ul li{
+    list-style: none;
+}
+.content1bloc1 ul li a{
+    color:purple;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.secondbar{
+    height:140px;
+
+}
+
+/* third......... */
+
+.navblock2{
+    background-color:rgba(0, 0, 0, 0.658);
+    height: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    height: 65px;
+    width: 200px;
+    padding: 10px;
+
+}
+.content1bloc2 {
+    display: flex;
+    list-style: none;
+    width: 435px;
+}
+.content1bloc2 ul li{
+    list-style: none;
+}
+.content1bloc2 ul li a{
+    color:azure;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.thirdbar{
+    height:140px;
+
+}
+
+/* fourth......... */
+
+.navblock3{
+    background-color:rgba(0, 0, 255, 0.603);
+    height: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    height: 65px;
+    width: 200px;
+    padding: 10px;
+
+}
+.content1bloc3 {
+    display: flex;
+    list-style: none;
+    width: 435px;
+}
+.content1bloc3 ul li{
+    list-style: none;
+}
+.content1bloc3 ul li a{
+    color:whitesmoke;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.fourthbar{
+    height:140px;
+
+}
+
