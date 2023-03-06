@@ -1,11 +1,20 @@
 import React from 'react'
+import Nav from './component/Nav'
+// import './global.css'
+import Navbars from './Navbars';
+// import './navbars.css'
+import Netflix from './Netflix';
+import './netflix.css'
+
 
 const App =()=> {
     return (
         <>
-     <div>helllooo</div>
-     <h2>good morning</h2>
-        </>
+       {/* <Nav/> */}
+       {/* <Navbars/> */}
+       <Netflix/>
+
+       </>
     )
 }
-export default App
+export default App;
