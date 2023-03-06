@@ -1,0 +1,33 @@
+.navblock{
+    background-color:rgba(255, 0, 0, 0.705);
+    height: 75px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+img{
+    height: 65px;
+    width: 200px;
+    padding: 10px;
+
+}
+.contentblock {
+    display: flex;
+    list-style: none;
+    width: 435px;
+}
+.contentblock ul li{
+    list-style: none;
+}
+.contentblock ul li a{
+    color:whitesmoke;
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+.mainblock{
+    height:140px;
+
+}
+
