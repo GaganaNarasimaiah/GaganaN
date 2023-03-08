@@ -4,7 +4,10 @@ import Nav from './component/Nav'
 import Navbars from './Navbars';
 // import './navbars.css'
 import Netflix from './Netflix';
-import './netflix.css'
+// import './netflix.css'
+import Propsfun from './Propsfun';
+import photo from './picture.jpg';
+
 
 
 const App =()=> {
@@ -12,8 +15,11 @@ const App =()=> {
         <>
        {/* <Nav/> */}
        {/* <Navbars/> */}
-       <Netflix/>
-
+       {/* <Netflix/> */}
+       {/* <Propsfun data="priya"/>
+       <Propsfun data1="priya"/>
+       <Propsfun data2={photo}/> */}
+       {/* <Propsfun data={"https://nationaltoday.com/wp-content/uploads/2021/08/Teddy-Bear-Day.jpg"}/> */}
        </>
     )
 }
