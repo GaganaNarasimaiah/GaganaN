@@ -1,0 +1,167 @@
+[
+    {
+        "movieName":"KGF",
+        "Cast":["yash",",shrinidhi"],
+        "YORelease":"2019",
+        "rating":"5star",
+        "photo":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5a21f64af7359f7aaa7c29dee8a12a97630e707cdbf71e0ae6b063322fb8575._RI_V_TTW_.jpg"
+    },
+
+
+    {
+        "movieName":"Kanthara",
+        "Cast":["Rishabshetty",",SapthamiGowda"],
+        "YORelease":"2022",
+        "rating":"5star",
+        "photo":"https://www.livelaw.in/h-upload/2022/10/29/441404-kantara-2.jpeg"
+    },
+
+
+    {
+        "movieName":"Charlie",
+        "Cast":["Rakshithshetty",",Charlie"],
+        "YORelease":"2021",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgI56i3ltGKhVlW8eG0AD8qY8bvbtGHrvbtWkcL_rf4mkFM3PTDYYiwzjbJ1moEFNsK1E&usqp=CAU"
+    },
+
+
+    {
+        "movieName":"Paramathma",
+        "Cast":["puneeth",",deepasannidi"],
+        "YORelease":"2015",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZTLdfKXv7fgueKOwDu6k9LhDxb5J-moK-e9miCNMD6i5XCFj9yZfPenlaEu7Vaxrr0Q&usqp=CAU"
+    },
+
+
+    {
+        "movieName":"Ranna",
+        "Cast":["kiccha",",Rachitha"],
+        "YORelease":"2017",
+        "rating":"5star",
+        "photo":"https://www.filmiforest.com/img/poster_image/ranna_101377777.jpg"
+    },
+
+
+    {
+        "movieName":"Adduri",
+        "Cast":["Druvasarja",",Radhika"],
+        "YORelease":"2015",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgYYSBD5cnVGZc_VtKSSJDHil9z0sKx9KyNQ&usqp=CAU"
+    },
+
+    {
+        "movieName":"uggram",
+        "Cast":["Murali",",Haripriya"],
+        "YORelease":"2014",
+        "rating":"5star",
+        "photo":"data:image/jpeg;base64,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"
+    },
+
+
+    {
+        "movieName":"Anna-thangi",
+        "Cast":["shivrajkumar",",Radhika"],
+        "YORelease":"2004",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimLx3x2jey_t3winuXGGzYvo4s4Uy_ZksrQ&usqp=CAU"
+    },
+    
+    {
+        "movieName":"kranthi",
+        "Cast":["Dharshan",",Rachitha"],
+        "YORelease":"2023",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3jhtW09ZQBFZ5e5mXiN7G4hXp0JKEmKXXYw&usqp=CAU"
+    },
+
+    {
+        "movieName":"Akash",
+        "Cast":["PRk",",Ramya"],
+        "YORelease":"2005",
+        "rating":"4star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtwKqEosj01QNvqqFRxRDLf01EQstXrFDXaA&usqp=CAU"
+    },
+
+    {
+        "movieName":"Amruthavarshini",
+        "Cast":["Ramesh",",Suhasini"],
+        "YORelease":"2001",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9YlUvRStIHmGrqGM_upeWLNw_6ElAFgGww&usqp=CAU"
+    },
+
+    {
+        "movieName":"Premaloka",
+        "Cast":["Ravichandran",",juhichavla"],
+        "YORelease":"1991",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZrhEvUokS5DyTzzhJAOrYR2RHkZmIq9eig&usqp=CAU"
+    },
+
+    {
+        "movieName":"Mayura",
+        "Cast":["Rajkumar",",Manjula"],
+        "YORelease":"1980",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs5IdEm0bgg2AJv_09YjNgjpP80m9t6mJjNA&usqp=CAU"
+    },
+
+    {
+        "movieName":"Sarathi",
+        "Cast":["Dharshan",",deepasannidi"],
+        "YORelease":"2015",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WJlNmM0gvhKg9m-UIZNJD1sPS3ACmZMX3Q&usqp=CAU"
+    },
+
+    {
+        "movieName":"Arjun",
+        "Cast":["Prajwal",",Ramba"],
+        "YORelease":"2018",
+        "rating":"4star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0daOwt_y5Jd-kLtQF9WzaGQEFVXfUL1DINA&usqp=CAU"
+    },
+
+    {
+        "movieName":"Vilan",
+        "Cast":["Sudeep",",Amy jakson"],
+        "YORelease":"2001",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SIb4LZzJg4wLdYE0tGao28qXLejnkomEnw&usqp=CAU"
+    },
+
+    {
+        "movieName":"kempegowda",
+        "Cast":["Sudeep",",Ragini"],
+        "YORelease":"2017",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSai_hDr4iXrZkTplUwxOkHvIbM10NZUGNLOQ&usqp=CAU"
+    },
+ 
+    {
+        "movieName":"Bahadhur",
+        "Cast":["Dhruvasarja",",Radhika"],
+        "YORelease":"2018",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqksHR9UGplvX1oS5Qxm7mMsHyDsuBYcLqzMsC1tIdvDV0xXNarVlEiP5qFZQJ-gVLXc&usqp=CAU"
+    },
+
+    {
+        "movieName":"Appu",
+        "Cast":["PRK",",Ramya"],
+        "YORelease":"2001",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHRZEEdirjRmLJ7vXiLjw9mEsIeNFhIjKig&usqp=CAU"
+    },
+
+    {
+        "movieName":"kirik Party",
+        "Cast":["Rakshithshetty",",Rashmika"],
+        "YORelease":"2018",
+        "rating":"5star",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeXc_J3-UMHHcH5u8i5fhFJPhd07boe-WBA&usqp=CAU"
+    }
+]
