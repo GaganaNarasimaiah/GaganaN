@@ -7,19 +7,25 @@ import Netflix from './Netflix';
 // import './netflix.css'
 import Propsfun from './Propsfun';
 import photo from './picture.jpg';
-
+import JSON from './moviesdata.json';
+import Details from './Details';
+import './details.css'
 
 
 const App =()=> {
     return (
         <>
-       {/* <Nav/> */}
-       {/* <Navbars/> */}
-       {/* <Netflix/> */}
-       {/* <Propsfun data="priya"/>
+        {/* <Nav/>
+       <Navbars/>
+      <Netflix/>  */}
+     {/* <Propsfun data="priya"/>
        <Propsfun data1="priya"/>
-       <Propsfun data2={photo}/> */}
-       {/* <Propsfun data={"https://nationaltoday.com/wp-content/uploads/2021/08/Teddy-Bear-Day.jpg"}/> */}
+       <Propsfun data2={photo}/>
+       <Propsfun data={"https://nationaltoday.com/wp-content/uploads/2021/08/Teddy-Bear-Day.jpg"}/>  */}
+       {/* <Propsfun data5={{
+        name:"gagana", password:"1234"
+       }}/> */}
+       <Details payload={JSON} />
        </>
     )
 }
