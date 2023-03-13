@@ -1,15 +1,16 @@
 import React from 'react'
-import Nav from './component/Nav'
+// import Nav from './component/Nav'
 // import './global.css'
-import Navbars from './Navbars';
+// import Navbars from './Navbars';
 // import './navbars.css'
-import Netflix from './Netflix';
+// import Netflix from './Netflix';
 // import './netflix.css'
-import Propsfun from './Propsfun';
-import photo from './picture.jpg';
-import JSON from './moviesdata.json';
-import Details from './Details';
-import './details.css'
+// import Propsfun from './Propsfun';
+// import photo from './picture.jpg';
+// import JSON from './moviesdata.json';
+// import Details from './Details';
+// import './details.css'
+import Courses from './Courses'
 
 
 const App =()=> {
@@ -25,7 +26,16 @@ const App =()=> {
        {/* <Propsfun data5={{
         name:"gagana", password:"1234"
        }}/> */}
-       <Details payload={JSON} />
+       {/* <Details payload={JSON} /> */}
+       {/* <Courses coursedata={{
+        courseName:"java full stack",
+        courseDuration:"3months",
+        courseAvail:true
+       }}/> */}
+       
+
+
+       <Courses/>
        </>
     )
 }
